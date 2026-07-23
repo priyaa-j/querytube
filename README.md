@@ -129,6 +129,6 @@ streamlit run app.py
 
 **Priya Jaiswal**
 
-Email: **priyajaiswal8775@gmail.com**
+Email: **ppriyajaiswal8775@gmail.com**
 
 ---
